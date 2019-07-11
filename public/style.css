@@ -1,0 +1,12 @@
+body {
+      background-image: url("https://www.hellobc.com/content/uploads/2018/03/Climate-Weather_Mountains.png");
+      background-repeat: no-repeat;
+      background-size: cover;
+      background-attachment: fixed;
+      background-position: center;
+    }
+
+    #history-scroll{
+        height: 250px;
+        overflow: scroll;
+        }
